@@ -1,0 +1,2 @@
+this is the fist test
+use git to manage my project
